@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @UsernameNotCopied
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning CSS and python
+- 🌱 I’m currently learning python
 - 📫 How to reach me: Dont Reach Me
